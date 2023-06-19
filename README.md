@@ -3,7 +3,7 @@ This is a basic project to demonstrate the use of Dockerfile
 
 # Breaking the Dockerfile into pieces
 
-![Dockerfile](https://github.com/DeveloperSaikat/Docker_Play/assets/40135714/5f604423-559c-4f23-b8f7-2f415dd2d477)
+![Dockerfile](https://github.com/DeveloperSaikat/Docker_Play/assets/40135714/9a23b827-c0aa-4147-897e-a81a60c291f9)
 
 - The first line specifies the base image that is required to run the commands that follows. Here we use node since we need npm
 - The second line defines the working directory inside the container. You can run this command to validate: docker exec -it <container-id> sh. This will point out this directory.
